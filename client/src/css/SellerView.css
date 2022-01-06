@@ -1,0 +1,19 @@
+.SellerView {
+    width: 100vw;
+    height: auto;
+    align-items: center;
+    padding-top: 40px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.item {
+    align-items: center;
+}
+.item-name {
+ 
+    margin-top: 100px;
+    border: 2px solid 
+}
